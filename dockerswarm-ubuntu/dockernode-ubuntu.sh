@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Description: A Docker Node for vagrant
+# Description: A Docker Node for vagrant Ubuntu 16.04 LTS
 # Author: Benjamin P. Trachtenberg
-# Version: 1.0.0
+# Version: 1.0.1
 #
 
 apt-get update

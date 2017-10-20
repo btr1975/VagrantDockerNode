@@ -1,4 +1,4 @@
-# Vagrant-Image: VagrantDockerNode
+# Vagrant-File: VagrantDockerNode
 
 ## Created By: Benjamin P. Trachtenberg
 
@@ -10,6 +10,13 @@
 ### About
 
 This image is a Vagrant file to build a group of Docker nodes to build a quick Swarm to play with.  It also includes docker-compose.
+
+### Version: 1.0.0 Notes
+* Ubuntu 16.04 LTS
+
+### Version: 1.0.1 Notes
+* Ubuntu 16.04 LTS
+* CentOS 7
 
 ### Notes
 * Change node names if you want.
